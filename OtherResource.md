@@ -13,7 +13,7 @@
 - mopaas云：http://www.mopaas.com/portal.jsp
 - 阿里云控制台
 - 多说评论系统：http://dev.duoshuo.com/
-
+- 开源Logo站，有很多免费提供的logo可以用 http://openlogos.org/
 ## SomeToy
 
 - EverNoteAPI：https://github.com/evernote

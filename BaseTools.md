@@ -74,6 +74,8 @@ Replace “OS” with “rhel” or “centos”, depending on the distribution 
 还可以直接下载压缩包安装
 https://www.cnblogs.com/taiyonghai/p/6728707.html
 
+配置文件详解 https://my.oschina.net/hansonwang99/blog/1835408
+
 解决Nginx出现403 forbidden (13: Permission denied)
 https://blog.csdn.net/onlysunnyboy/article/details/75270533
 ```
